@@ -10,3 +10,8 @@ My name is Michał.
 - 🌱 I’m currently learning Python, SQL and C++.
 - 👯 I’m looking to collaborate on open source project.
 -->
+# My name is Michał.
+
+- 🔭I’m currently working on **library system** and I search work in IT.
+- 🌱 I’m currently learning Python, SQL and C++.
+- 👯 I’m looking to collaborate on open source project.
