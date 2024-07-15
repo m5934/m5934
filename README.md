@@ -12,6 +12,8 @@
 
 ---------------Polska wersja-----------------------
 
+# Nazywam się Michał.
+
 - 🔭 Obecnie pracuje nad systemem blibliotecznym i szukam pracy w branży IT.
 - 🌱 Rozwijam swoje umiejętności w technogiach: Pythonie, SQL i C++.
 - 👯 Szukam współpracy przy projekcie open source.
