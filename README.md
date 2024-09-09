@@ -6,7 +6,7 @@
 
 # My name is Michał Wojciechowski
 
-- 🔭I’m currently working on **library system** and I search work in IT.
+- 🔭I search work in IT.
 - 🌱 I am developing my skills in technologies:
   <p></p>
 
