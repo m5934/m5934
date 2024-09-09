@@ -21,7 +21,7 @@
 
 # Nazywam się Michał Wojciechowski
 
-- 🔭 Obecnie pracuje nad **systemem blibliotecznym** i szukam pracy w branży IT.
+- 🔭 Obecnie szukam pracy w branży IT.
 - 🌱 Rozwijam swoje umiejętności w technologiach:
 <p></p>
 
