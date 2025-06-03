@@ -12,6 +12,7 @@
 
 <br> -Python,</br>
 </br> -SQL</br>
+</br> - HTML/CSS/JavaScript
 </br> -C++.</br>
 
 - 👯 I’m looking to collaborate on open source project.
