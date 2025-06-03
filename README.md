@@ -28,6 +28,7 @@
 
 <br>- Python,</br>
 </br>- SQL</br>
+</br> - HTML/CSS/JavaScript
 </br>- C++.</br>
 <p></p>
 
