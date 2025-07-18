@@ -16,7 +16,7 @@
 </br> -C++.</br>
 
 - 👯 I’m looking to collaborate on open source project.
-
+- I'm looking for a job.
 
 ---------------Polska wersja-----------------------
 
@@ -33,3 +33,4 @@
 <p></p>
 
 - 👯 Szukam współpracy przy projekcie open source.
+- Szukam pracy.
