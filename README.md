@@ -33,4 +33,3 @@
 <p></p>
 
 - 👯 Szukam współpracy przy projekcie open source.
-- Szukam pracy.
