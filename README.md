@@ -10,12 +10,14 @@
 - 🌱 I am developing my skills in technologies:
   <p></p>
 
-<br> -Python,</br>
+</br>-Python,</br>  
 </br> -SQL</br>
 </br> - HTML/CSS/JavaScript
 </br> -C++.</br>
 
+
 - 👯 I’m looking to collaborate on open source project.
+  
 - I'm looking for a job.
 
 ---------------Polska wersja-----------------------
@@ -26,7 +28,7 @@
 - 🌱 Rozwijam swoje umiejętności w technologiach:
 <p></p>
 
-<br>- Python,</br>
+</br>- Python,</br>
 </br>- SQL</br>
 </br> - HTML/CSS/JavaScript
 </br>- C++.</br>
